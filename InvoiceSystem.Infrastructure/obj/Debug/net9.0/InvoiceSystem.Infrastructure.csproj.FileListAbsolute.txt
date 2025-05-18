@@ -1,0 +1,17 @@
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Infrastructure.deps.json
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Infrastructure.runtimeconfig.json
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Infrastructure.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Infrastructure.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Domain.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\bin\Debug\net9.0\InvoiceSystem.Domain.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.csproj.AssemblyReference.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.AssemblyInfoInputs.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.AssemblyInfo.cs
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.csproj.CoreCompileInputs.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceS.D0BAFF5B.Up2Date
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\refint\InvoiceSystem.Infrastructure.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\InvoiceSystem.Infrastructure.genruntimeconfig.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Infrastructure\obj\Debug\net9.0\ref\InvoiceSystem.Infrastructure.dll

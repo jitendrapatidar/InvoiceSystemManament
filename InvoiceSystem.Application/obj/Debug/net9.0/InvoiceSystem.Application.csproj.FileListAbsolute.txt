@@ -1,0 +1,17 @@
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.deps.json
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Domain.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Infrastructure.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Infrastructure.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Domain.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.csproj.AssemblyReference.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.AssemblyInfoInputs.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.AssemblyInfo.cs
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.csproj.CoreCompileInputs.cache
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceS.BBB4F391.Up2Date
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\refint\InvoiceSystem.Application.dll
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.pdb
+I:\TEST2025\InvoiceSystemManament\InvoiceSystem.Application\obj\Debug\net9.0\ref\InvoiceSystem.Application.dll
